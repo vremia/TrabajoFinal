@@ -1,0 +1,137 @@
+{
+  "estudiantes": [
+    {
+      "id": "1",
+      "nombre": "Ana",
+      "apellido": "Vasquez",
+      "edad": 18,
+      "carrera": "Adm. de Empresas"
+    },
+    {
+      "id": "2",
+      "nombre": "Isabel",
+      "apellido": "Rojas",
+      "edad": 25,
+      "carrera": "Ing. de Sistemas"
+    },
+    {
+      "id": "3",
+      "nombre": "Rodrigo",
+      "apellido": "Mamani",
+      "edad": 21,
+      "carrera": "Ing. de Sistemas"
+    },
+    {
+      "id": "4",
+      "nombre": "Omar",
+      "apellido": "Flores",
+      "edad": 19,
+      "carrera": "Psicologia"
+    },
+    {
+      "id": "5",
+      "nombre": "John",
+      "apellido": "Trigo",
+      "edad": 20,
+      "carrera": "Adm. de Empresas"
+    },
+    {
+      "id": "6",
+      "nombre": "Cristian",
+      "apellido": "Pereira",
+      "edad": 18,
+      "carrera": "Psicologia"
+    },
+    {
+      "id": "7",
+      "nombre": "Armando",
+      "apellido": "Choque",
+      "edad": 22,
+      "carrera": "Psicologia"
+    },
+    {
+      "id": "8",
+      "nombre": "Lucia",
+      "apellido": "Saavedra",
+      "edad": 22,
+      "carrera": "Ing. de Sistemas"
+    },
+    {
+      "id": "9",
+      "nombre": "Alba",
+      "apellido": "Peredo",
+      "edad": 24,
+      "carrera": "Economia"
+    },
+    {
+      "id": "10",
+      "nombre": "Camila",
+      "apellido": "Santos",
+      "edad": 23,
+      "carrera": "Contabilidad"
+    },
+    {
+      "id": "8610",
+      "nombre": "Maria",
+      "apellido": "Ninaja",
+      "edad": 24,
+      "carrera": "Ing. Civil"
+    },
+    {
+      "id": "75e8",
+      "nombre": "Carlos",
+      "apellido": "Arias",
+      "edad": 21,
+      "carrera": "Psicologia"
+    },
+    {
+      "id": "cc08",
+      "nombre": "Pablo",
+      "apellido": "Arias",
+      "edad": 21,
+      "carrera": "Ing. Civil"
+    },
+    {
+      "id": "808b",
+      "nombre": "Maria",
+      "apellido": "Perez",
+      "edad": 19,
+      "carrera": "Psicologia"
+    },
+    {
+      "id": "0139",
+      "nombre": "arlet",
+      "apellido": "Perez",
+      "edad": 18,
+      "carrera": "Ing. Civil"
+    },
+    {
+      "id": "d2d4",
+      "nombre": "Carlos",
+      "apellido": "Choque",
+      "edad": null,
+      "carrera": "Civil"
+    },
+    {
+      "id": "7ec7",
+      "nombre": "Adita",
+      "apellido": "Choque",
+      "edad": 25,
+      "carrera": "Adm. de Empresas"
+    },
+    {
+      "id": "ae51",
+      "nombre": "Beymar",
+      "apellido": "Cuba",
+      "edad": 22,
+      "carrera": "Contabilidad"
+    },
+    {
+      "id": "4dbf",
+      "nombre": "Ruth",
+      "apellido": "Equilea",
+      "edad": 21,
+      "carrera": "Contabilidad"
+    }
+  ]
+}
