@@ -4,6 +4,7 @@ import {MatTableModule} from '@angular/material/table';
 import { RestApiService } from '../../services/rest-api.service';
 
 export interface Estudiante {
+  id: string;
   nombre: string;
   apellido: string;
   edad: number;
@@ -19,7 +20,7 @@ export interface Estudiante {
 })
 export class DashboardComponent implements OnInit{
 
-  nombres_columna: string[] = ['nombre', 'apellido', 'edad', 'carrera'];
+  nombres_columna: string[] = ['id', 'nombre', 'apellido', 'edad', 'carrera'];
   lista_estudiantes: Estudiante[] = [];
 
   // GET A ESTUDIANTES

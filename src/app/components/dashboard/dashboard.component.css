@@ -1,0 +1,14 @@
+table{
+    background-color: rgb(159, 203, 203);
+    text-align: center;
+}
+
+th{
+    color:black ;
+    font-weight: bold;
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}
